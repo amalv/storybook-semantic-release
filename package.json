@@ -2,6 +2,10 @@
   "name": "storybook-semantic-release",
   "version": "0.1.0",
   "private": false,
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
